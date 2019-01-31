@@ -1,7 +1,7 @@
 {
-  "token": "",
-  "cmd_prefix": ">",
-  "customcmd_prefix": ".",
-  "bot_identifier": ":robot:",
+  "token": "NDkyMzY1MjUxNDg1MTA2MTkw.DxgMmQ.M0tRklXxKsJVhS79nbCuTMnID1U",
+  "cmd_prefix": "!",
+  "customcmd_prefix": ">",
+  "bot_identifier": "~ ",
   "track": false
 }
